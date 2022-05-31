@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theblockcoder
 - 👀 I’m interested in Web, Android, OpenGL and Linux Development.
-- 🌱 I’m currently learning Web Development, and using Linux.
-- Can't wait for GNOME 42!
+- 🌱 I’m currently learning like 4 things at once, and using Linux.
+-  GNOME 42 is awesome!
 
 <!---
 theblockcoder/theblockcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
