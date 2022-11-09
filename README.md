@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theblockcoder
-- 👀 I’m interested in Web, Android, OpenGL and Linux Development.
+- 👀 I’m interested in Web, OpenGL and Linux Development.
 - 🌱 I’m currently learning like 4 things at once, and using Linux.
 -  GNOME 42 is awesome!
 
